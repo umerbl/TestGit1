@@ -1,0 +1,12 @@
+This  is my first git named as TestGit1
+Eamil umer.saif0009@gmail.com
+umerbl
+cd git/
+git config --global user.name "umerbl"
+git config --global user.email umer.saif0009@gmail.com
+git clone https://github.com/umerbl/TestGit.git
+git add text.txt
+git status
+git commit -m "Message Commited" test.txt
+git push origin main
+git add test3.cpp
